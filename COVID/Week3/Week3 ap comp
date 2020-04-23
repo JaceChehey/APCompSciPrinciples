@@ -1,0 +1,5 @@
+Jace Chehey
+
+
+
+To ensure that some of my code will have two additional algorithms is add or remove if statements. One way I did this is instead of using only one if statement to see if the cards were aligned correctly, I instead used two if statements, one to see if card 1 = card 1 slot. And the second to see if the 2nd was greater than or less than the 3rd slot.(Depending which order you chose:Greatest to least or least to greatest) 
