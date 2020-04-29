@@ -1,0 +1,5 @@
+Jace Chehey 
+
+One algorithm that i have implemented in my code is where it switches places of two cards findng out what places they go in. Example:    {temp=1     1=2     b=temp}     {temp=2      2=3      3=temp}    {temp=1     1=2     3=temp} 
+
+KEY:1 = card1    2=card2    3=card3
